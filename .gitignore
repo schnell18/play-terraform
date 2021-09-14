@@ -1,0 +1,15 @@
+.idea/
+.iml
+.iws
+.ipr
+*.swp
+*.swo
+*.bak
+**/*.rs.bk
+**/*.o
+**/*.so
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.*
+.terraform.lock.hcl
