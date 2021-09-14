@@ -67,4 +67,13 @@ This file should be kept secret and never check into VCS.
 
 Use __terraform show__ or __terraform state list__ to view state.
 
+## Reference
+
+Other useful resources:
+
+- [Terraform for DevOps Beginners + Labs][2]
+- [Terragrunt][3]
+
 [1]: https://terraform.io/
+[2]: https://youtu.be/YcJ9IeukJL8
+[3]: https://terragrunt.gruntwork.io/
